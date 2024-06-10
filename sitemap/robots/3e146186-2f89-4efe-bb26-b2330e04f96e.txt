@@ -1,5 +1,5 @@
 # Disallow all crawlers access to certain pages. 
-# wepink portugal
+# Dabelle
  User-agent: * 
 
  Disallow: /img/* 
@@ -12,4 +12,4 @@
  Disallow: /bindingteste/*
  Noindex: /buscapagina/* 
 
- Sitemap: www.wepinkportugal.com/sitemap.xml
+ Sitemap: https://www.dabelle.com.br/sitemap.xml
